@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Your Name - CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Your Name</h1>
+            <p>Web Developer | Software Engineer | Designer</p>
+        </header>
+
+        <section class="contact">
+            <h2>Contact Information</h2>
+            <ul>
+                <li>Email: your.email@example.com</li>
+                <li>Phone: +123 456 789</li>
+                <li>GitHub: <a href="https://github.com/yourusername">yourusername</a></li>
+                <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h2>Experience</h2>
+            <div class="job">
+                <h3>Job Title</h3>
+                <p>Company Name | Date</p>
+                <ul>
+                    <li>Task or achievement description #1</li>
+                    <li>Task or achievement description #2</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Job Title</h3>
+                <p>Company Name | Date</p>
+                <ul>
+                    <li>Task or achievement description #1</li>
+                    <li>Task or achievement description #2</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p>Degree | University Name | Date</p>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>React, Angular</li>
+                <li>Python, Django</li>
+            </ul>
+        </section>
+
+        <section class="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><a href="https://github.com/yourusername/project1">Project 1</a> - Description of the project</li>
+                <li><a href="https://github.com/yourusername/project2">Project 2</a> - Description of the project</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
+
